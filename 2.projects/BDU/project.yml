@@ -1,0 +1,24 @@
+title: foo
+
+title_de: foo
+
+date: 1111
+
+material: ?
+
+size: 1 x 1 cm
+
+1.jpg:
+  description: Exhibition view PCC Gallery, Colone
+  description_de: Ausstellungsansicht,PCC Galerie, Köln
+
+2.jpg:
+  description: Exhibition view, Goethe National Museum
+  description_de: Ausstellungsansicht, Goethe-National-Museum
+
+content: +++
+
+content
+
+text_de:
++++
