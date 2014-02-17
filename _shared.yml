@@ -6,6 +6,8 @@ tagline:
 
 email: <nts@nts.is>
 
+order: desc
+
 langs: en, de, he
 
 mainlang: en
